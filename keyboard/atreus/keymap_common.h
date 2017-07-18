@@ -104,7 +104,7 @@ extern const uint16_t fn_actions[];
                            KC_DOWN, KC_F4, KC_F5, KC_F6, KC_F11,          \
                          KC_NO, KC__VOLUP, KC_NO, KC_NO, KC_FN3, \
                            KC_NO, KC_F1, KC_F2, KC_F3, KC_F12,            \
-                         KC_NO, KC__VOLDOWN, KC_LGUI, KC_LSFT, KC_BSPC, KC_LCTL, \
+                         KC_FN2, KC__VOLDOWN, KC_LGUI, KC_LSFT, KC_BSPC, KC_LCTL, \
                            KC_LALT, KC_SPC, KC_FN2, KC_PSCREEN, KC_SLCK, KC_PAUSE)
 
 enum function_id {
